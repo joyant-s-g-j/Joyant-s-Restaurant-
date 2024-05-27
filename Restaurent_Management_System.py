@@ -95,7 +95,6 @@ class Restaurent:
 
     def view_employees(self):
         print("Employee List")
-        print("Name\tEmail\t\tPhone\tAddress\tAge\tDesignation\tSalary")
         for emp in self.employees:
             print(emp.name,"\t",emp.email,"\t",emp.phone,"\t",emp.address,"\t",emp.age,"\t",emp.designation,"\t",emp.salary)
 
