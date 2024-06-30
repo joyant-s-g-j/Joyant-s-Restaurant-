@@ -215,7 +215,7 @@ while True:
     print("""
            ************************************
            *                                  *
-           *  Welcome to Nupur's Restaurent   *
+           *  Welcome to Joyant's Restaurent  *
            *                                  *
            ************************************
             """)
